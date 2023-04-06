@@ -6,7 +6,7 @@
 
 
 <h3 align="center">
-    Tenebris consumpsit me, vox mea non habet resonare 🌙</a>.  
+    Tenebris consumpsit me, vox mea non habet resonare. 🌙</a>  
 </h3>
 <p align="center">
 <img alt="Commutatus gif" src="https://pa1.narvii.com/6712/d00a2f7d2506eebf554b0ff77a3c79cf61024217_hq.gif" width="90%" />
