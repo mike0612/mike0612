@@ -19,7 +19,7 @@
 
 
 - 🔭 I’m currently working on **Distribuidoras agrícolas**
-- 🌱 I’m currently learning ... **Spring bot**
+- 🌱 I’m currently learning ... **Spring boot ALURA-ORACLE**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Anime & DC Comics ❤**
@@ -76,6 +76,9 @@
 <code><img height="75" src="https://download.logo.wine/logo/NetBeans/NetBeans-Logo.wine.png"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/1024px-PyCharm_Icon.svg.png"></code> &nbsp;&nbsp;
   <code><img height="75" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/IntelliJ_IDEA_Icon.svg/1024px-IntelliJ_IDEA_Icon.svg.png"></code> &nbsp;&nbsp;
+     <code><img height="75" src="https://1000marcas.net/wp-content/uploads/2021/07/Atlassian-Logo-2010s1.png"></code> &nbsp;&nbsp;
+       <code><img height="75" src="https://insomnia.rest/images/insomnia-logo.svg"></code> &nbsp;&nbsp;
+       <code><img height="75" src="https://testerhouse.com/wp-content/uploads/2019/09/postman-logo.png"></code> &nbsp;&nbsp;
     <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkFoM1%2Fbtq0obgDeiK%2FzUs1169JPSexW9cW4Joy50%2Fimg.png"></code> &nbsp;&nbsp;
