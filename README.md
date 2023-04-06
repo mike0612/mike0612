@@ -16,6 +16,7 @@
 <h3 align="center"> TI Engineering, Software Developer (To be graduated in 2021)</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
 
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 - 🔭 I’m currently working on **vKarma Webapp**
 - 🌱 I’m currently learning ... **Django and React.js**
 - 💬 Ask me about ... **Web Develpoment**
