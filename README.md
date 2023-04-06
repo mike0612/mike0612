@@ -35,18 +35,15 @@
 
 
 <p align="center">
-    <code><img height="75" src="https://angular.io/assets/images/logos/angular/shield-large.svg"></code> &nbsp;&nbsp;
-    <code><img height="75" src="https://angular.io/assets/images/logos/angular/shield-large.svg"></code> &nbsp;&nbsp;
-    <code><img height="75" src="https://angular.io/assets/images/logos/angular/shield-large.svg"></code> &nbsp;&nbsp;
-    <code><img height="75" src="https://angular.io/assets/images/logos/angular/shield-large.svg"></code> 
+    <code><img height="75" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code> &nbsp;&nbsp;
+    <code><img height="75" src="https://www.python.org/static/img/python-logo@2x.png"></code> &nbsp;&nbsp;
 </p>
 
 <br/>
 
 <p align="center">
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://angular.io/assets/images/logos/angular/shield-large.svg"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/css.png"></code>
@@ -55,6 +52,8 @@
 <br/>
 
 <p align="center">
+ <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://nodejs.org/static/images/logo.svg"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://laravel.com/img/logotype.min.svg"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code> 
