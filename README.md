@@ -19,20 +19,14 @@
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on **vKarma Webapp**
-- 🌱 I’m currently learning ... **Django and React.js**
+- 🔭 I’m currently working on **Distribuidoras agrícolas**
+- 🌱 I’m currently learning ... **Spring bot**
 - 💬 Ask me about ... **Web Develpoment**
 - 😄 Employement ... **Open for intern opportunities**
-- ⚡ Fun fact ... **Anime**❤
-- 📫 How to reach me **sachinverma53121@gmail.com**
+- ⚡ Fun fact ... **Anime & DC Comics **❤
+- 📫 How to reach me **mikail.avyssos@protonmail.com**
 <h4>Programming Languages: </h4>
-<p align="left">
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
- <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
-</p>
 
-<br/>
 <br/>
 
 
