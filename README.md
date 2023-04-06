@@ -12,20 +12,26 @@
 <img alt="Commutatus gif" src="https://pa1.narvii.com/6712/d00a2f7d2506eebf554b0ff77a3c79cf61024217_hq.gif" width="90%" />
 </p>
 <br/>
-<h2 align="center">
-    I create user experiences that are:
-</h2>
-<img align="right" alt="Person coding gif" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/coding.gif" width="200" />
+<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
 
-- **Responsive ✅**
-- **Intuitive 🤩**
-- **Dynamic 🧬**
-- **Reusable ♻️**
-- **Secure 🛡️**
-- **Load blazing fast 🚀**
-- **SEO Optimized 🔍**
-- **Crafted with pixel-perfect code ✨**
 
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+
+- 🔭 I’m currently working on **vKarma Webapp**
+- 🌱 I’m currently learning ... **Django and React.js**
+- 💬 Ask me about ... **Web Develpoment**
+- 😄 Employement ... **Open for intern opportunities**
+- ⚡ Fun fact ... **Anime**❤
+- 📫 How to reach me **sachinverma53121@gmail.com**
+<h4>Programming Languages: </h4>
+<p align="left">
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/cpp.png" alt=cplusplus width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/c.png" alt=c width="60" height="60"/>
+ <img style="margin: auto;" src="https://raw.githubusercontent.com/sachinverma53121/sachinverma53121/master/icons/python.png" alt=python width="60" height="60"/>
+</p>
 
 <br/>
 <br/>
