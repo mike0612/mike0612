@@ -36,9 +36,9 @@
 
 <p aling="center">
     <code><img height="75" src="https://angular.io/assets/images/logos/angular/shield-large.svg"></code> &nbsp;&nbsp;
-        <code><img height="75" src="https://angular.io/assets/images/logos/angular/shield-large.svg"></code> &nbsp;&nbsp;
-        <code><img height="75" src="https://angular.io/assets/images/logos/angular/shield-large.svg"></code> &nbsp;&nbsp;
-        <code><img height="75" src="https://angular.io/assets/images/logos/angular/shield-large.svg"></code> &nbsp;&nbsp;
+    <code><img height="75" src="https://angular.io/assets/images/logos/angular/shield-large.svg"></code> &nbsp;&nbsp;
+    <code><img height="75" src="https://angular.io/assets/images/logos/angular/shield-large.svg"></code> &nbsp;&nbsp;
+    <code><img height="75" src="https://angular.io/assets/images/logos/angular/shield-large.svg"></code> 
 </p>
 
 <br/>
@@ -57,7 +57,7 @@
 
 <code><img height="75" src="https://nodejs.org/static/images/logo.svg"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://laravel.com/img/logotype.min.svg"></code> &nbsp;&nbsp;
-<code><img height="75" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"></code> 
 
 
 </p>
