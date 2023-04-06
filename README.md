@@ -34,8 +34,9 @@
 </h2>
 <p align="center">
 
+<code><img height="75" src="https://nodejs.org/static/images/logo.svg"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://angular.io/assets/images/logos/angular/shield-large.svg"></code> &nbsp;&nbsp;
-    <code><img height="75" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code> &nbsp;&nbsp;
+
 
 </p>
 
@@ -43,6 +44,7 @@
 
 <p align="center">
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/git.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/js.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/html.png"></code> &nbsp;&nbsp;
