@@ -14,7 +14,6 @@
 <br/>
 <h2 align="center">A Fullstack Developer</h2>
 <h3 align="center"> TI Engineering, Software Developer (To be graduated in 2021)</h3>
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
 
 <img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -35,7 +34,9 @@
 </h2>
 <p align="center">
 
-<code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/redux.png"></code> &nbsp;&nbsp;
+<code><img height="75" src="https://angular.io/assets/images/logos/angular/shield-large.svg"></code> &nbsp;&nbsp;
+    <code><img height="75" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code> &nbsp;&nbsp;
+
 </p>
 
 <br/>
