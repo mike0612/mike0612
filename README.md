@@ -12,8 +12,8 @@
 <img alt="Commutatus gif" src="https://pa1.narvii.com/6712/d00a2f7d2506eebf554b0ff77a3c79cf61024217_hq.gif" width="90%" />
 </p>
 <br/>
-<h2 align="center">A fullstack developer</h2>
-<h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
+<h2 align="center">A Fullstack Developer</h2>
+<h3 align="center"> TI Engineering, Software Developer (To be graduated in 2021)</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
 
 - 🔭 I’m currently working on **vKarma Webapp**
