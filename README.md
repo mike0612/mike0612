@@ -5,20 +5,16 @@
 
 
 
-<h3 align="center">
+<h2 align="center">
     Tenebris consumpsit me, vox mea non habet resonare. 🌙</a>  
-</h3>
+</h2>
 <p align="center">
 <img alt="Commutatus gif" src="https://pa1.narvii.com/6712/d00a2f7d2506eebf554b0ff77a3c79cf61024217_hq.gif" width="90%" />
 </p>
 <br/>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h2 align="center">A fullstack developer</h2>
 <h3 align="center">Bachelor in Engineering, Computer Science (To be graduated in 2022)</h3>
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sachinverma53121 alt=sachinverma53121/></p>
-
-
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-
 
 - 🔭 I’m currently working on **vKarma Webapp**
 - 🌱 I’m currently learning ... **Django and React.js**
