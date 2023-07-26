@@ -20,7 +20,7 @@
 
 - 🔭 I’m currently working on **Distribuidoras agrícolas**
 - 🌱 I’m currently learning ... **Spring boot ALURA-ORACLE**
-- 💬 Ask me about ... **Web Develpoment**
+- 💬 Ask me about ... **Web Development**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Anime & DC Comics ❤**
 - 📫 How to reach me **mikail.avyssos@protonmail.com**
