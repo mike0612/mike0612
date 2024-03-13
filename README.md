@@ -34,11 +34,13 @@
 
 <br>
 
+<h3 align="center">Proyectos</h3>
 
-### Proyectos
-
-[![Video de A.L.E.X](https://i.vimeocdn.com/video/923048479.jpg)](https://vimeo.com/923048479)
-
+<p align="center">
+  <a href="https://vimeo.com/923048479">
+    <img src="https://i.vimeocdn.com/video/923048479.jpg" alt="Video de A.L.E.X" width="50%">
+  </a>
+</p>
 
 <br>
 
