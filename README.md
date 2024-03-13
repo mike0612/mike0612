@@ -36,9 +36,7 @@
 
 <h3 align="center">Proyectos</h3>
 
-<p align="center">
-https://vimeo.com/923048479
-</p>
+
 
 
 <h4 Align="center"><strong>Proyecto A.L.E.X</strong></h4>
