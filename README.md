@@ -32,6 +32,15 @@
 
 </p>
 
+<h3 align="center">Proyectos</h3>
+
+<video width="100%" controls>
+  <source src="https://github.com/mike0612/Multimedia/raw/main/A.L.E.X.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
+
 <br/>
 <h2 align="center">
   Here are some technologies I use at work:
@@ -83,6 +92,7 @@
 <code><img height="75" src="https://github.com/chandan-reddy-k/chandan-reddy-k/blob/master/assets/npm.png"></code> &nbsp;&nbsp;
 <code><img height="75" src="https://img1.daumcdn.net/thumb/R800x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FkFoM1%2Fbtq0obgDeiK%2FzUs1169JPSexW9cW4Joy50%2Fimg.png"></code> &nbsp;&nbsp;
 </p>
+
 
 
 
