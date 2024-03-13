@@ -37,8 +37,7 @@
 <h3 align="center">Proyectos</h3>
 
 <p align="center">
-  <a href="https://vimeo.com/923048479">
-    <img src="https://i.vimeocdn.com/video/923048479.jpg" alt="Video de A.L.E.X" width="70%">
+ <iframe src="https://player.vimeo.com/video/923048479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
   </a>
 </p>
 <h4 Align="center"><strong>Proyecto A.L.E.X</strong></h4>
