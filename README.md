@@ -38,9 +38,12 @@
 
 <p align="center">
   <a href="https://vimeo.com/923048479">
-    <img src="https://i.vimeocdn.com/video/923048479.jpg" alt="Video de A.L.E.X" width="50%">
+    <img src="https://i.vimeocdn.com/video/923048479.jpg" alt="Video de A.L.E.X" width="100%">
   </a>
 </p>
+<p align="center">
+Proyecto A.L.E.X
+El sistema de inteligencia Autoaprendizaje Lingüístico Embebido eXponencíal (A.L.E.X) es un sistema chatbot desarrollado en Python con inteligencia artificial para la atención al servicio al cliente</p>
 
 <br>
 
