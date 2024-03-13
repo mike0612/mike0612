@@ -41,9 +41,9 @@
     <img src="https://i.vimeocdn.com/video/923048479.jpg" alt="Video de A.L.E.X" width="70%">
   </a>
 </p>
-<h4 Align="center">Proyecto A.L.E.X</h4>
+<h4 Align="center"><strong>Proyecto A.L.E.X</strong></h4>
 <p align="center">
-Sistema de inteligencia Autoaprendizaje Lingüístico Embebido eXponencíal (A.L.E.X) es un sistema chatbot desarrollado en Python con inteligencia artificial para la atención al servicio al cliente</p>
+Sistema de inteligencia <strong>A</strong>utoaprendizaje <strong>L</strong>ingüístico <strong>E</strong>mbebido e<strong>X</strong>ponencíal <strong>(A.L.E.X)</strong> es un sistema chatbot desarrollado en Python con inteligencia artificial para la atención al servicio al cliente</p>
 <br>
 
 <br/>
