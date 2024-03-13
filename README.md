@@ -32,6 +32,7 @@
 
 </p>
 
+<br>
 <h3 align="center">Proyectos</h3>
 
 <video width="100%" controls>
@@ -39,7 +40,7 @@
   Your browser does not support the video tag.
 </video>
 
-
+<br>
 
 <br/>
 <h2 align="center">
