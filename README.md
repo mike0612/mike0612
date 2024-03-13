@@ -37,7 +37,7 @@
 <h3 align="center">Proyectos</h3>
 
 <p align="center">
-  <iframe src="https://player.vimeo.com/video/923048479" width="640" height="360" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+https://vimeo.com/923048479
 </p>
 
 
