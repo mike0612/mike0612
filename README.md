@@ -33,12 +33,12 @@
 </p>
 
 <br>
-<h3 align="center">Proyectos</h3>
 
-<video width="100%" controls>
-  <source src="https://github.com/mike0612/Multimedia/raw/main/A.L.E.X.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+
+### Proyectos
+
+[![Video de A.L.E.X](https://i.vimeocdn.com/video/923048479.jpg)](https://vimeo.com/923048479)
+
 
 <br>
 
