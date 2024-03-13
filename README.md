@@ -42,7 +42,7 @@ https://github.com/mike0612/mike0612/assets/51035928/5737fdfe-2ac5-400b-8266-e92
 
 <h4 Align="center"><strong>Proyecto A.L.E.X</strong></h4>
 <p align="center">
-Sistema de inteligencia <strong>A</strong>utoaprendizaje <strong>L</strong>ingüístico <strong>E</strong>mbebido e<strong>X</strong>ponencíal <strong>(A.L.E.X)</strong> es un sistema chatbot desarrollado en Python con inteligencia artificial para la atención al servicio al cliente</p>
+<strong>A</strong>utoaprendizaje <strong>L</strong>ingüístico <strong>E</strong>mbebido e<strong>X</strong>ponencíal <strong>(A.L.E.X)</strong> es un sistema chatbot desarrollado en Python con inteligencia artificial para la atención al servicio al cliente.</p>
 <br>
 
 <br/>
