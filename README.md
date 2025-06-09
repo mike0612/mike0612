@@ -23,7 +23,7 @@
 - 💬 Ask me about ... **Web Development**
 - 😄 Employement ... **Open for intern opportunities**
 - ⚡ Fun fact ... **Anime & DC Comics ❤**
-- 📫 How to reach me **mikail.avyssos@protonmail.com**
+- 📫 How to reach me **mil.com**
 
 <br/>
 <h3 align="center">Certified: </h3>
